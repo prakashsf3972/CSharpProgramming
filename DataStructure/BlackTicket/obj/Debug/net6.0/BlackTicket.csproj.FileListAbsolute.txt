@@ -1,0 +1,15 @@
+C:\Users\PrakashKannan\OneDrive - Syncfusion\Prakash\C#\Applications\ClassAssignment\BlackTicket\bin\Debug\net6.0\BlackTicket.exe
+C:\Users\PrakashKannan\OneDrive - Syncfusion\Prakash\C#\Applications\ClassAssignment\BlackTicket\bin\Debug\net6.0\BlackTicket.deps.json
+C:\Users\PrakashKannan\OneDrive - Syncfusion\Prakash\C#\Applications\ClassAssignment\BlackTicket\bin\Debug\net6.0\BlackTicket.runtimeconfig.json
+C:\Users\PrakashKannan\OneDrive - Syncfusion\Prakash\C#\Applications\ClassAssignment\BlackTicket\bin\Debug\net6.0\BlackTicket.dll
+C:\Users\PrakashKannan\OneDrive - Syncfusion\Prakash\C#\Applications\ClassAssignment\BlackTicket\bin\Debug\net6.0\BlackTicket.pdb
+C:\Users\PrakashKannan\OneDrive - Syncfusion\Prakash\C#\Applications\ClassAssignment\BlackTicket\obj\Debug\net6.0\BlackTicket.csproj.AssemblyReference.cache
+C:\Users\PrakashKannan\OneDrive - Syncfusion\Prakash\C#\Applications\ClassAssignment\BlackTicket\obj\Debug\net6.0\BlackTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PrakashKannan\OneDrive - Syncfusion\Prakash\C#\Applications\ClassAssignment\BlackTicket\obj\Debug\net6.0\BlackTicket.AssemblyInfoInputs.cache
+C:\Users\PrakashKannan\OneDrive - Syncfusion\Prakash\C#\Applications\ClassAssignment\BlackTicket\obj\Debug\net6.0\BlackTicket.AssemblyInfo.cs
+C:\Users\PrakashKannan\OneDrive - Syncfusion\Prakash\C#\Applications\ClassAssignment\BlackTicket\obj\Debug\net6.0\BlackTicket.csproj.CoreCompileInputs.cache
+C:\Users\PrakashKannan\OneDrive - Syncfusion\Prakash\C#\Applications\ClassAssignment\BlackTicket\obj\Debug\net6.0\BlackTicket.dll
+C:\Users\PrakashKannan\OneDrive - Syncfusion\Prakash\C#\Applications\ClassAssignment\BlackTicket\obj\Debug\net6.0\refint\BlackTicket.dll
+C:\Users\PrakashKannan\OneDrive - Syncfusion\Prakash\C#\Applications\ClassAssignment\BlackTicket\obj\Debug\net6.0\BlackTicket.pdb
+C:\Users\PrakashKannan\OneDrive - Syncfusion\Prakash\C#\Applications\ClassAssignment\BlackTicket\obj\Debug\net6.0\BlackTicket.genruntimeconfig.cache
+C:\Users\PrakashKannan\OneDrive - Syncfusion\Prakash\C#\Applications\ClassAssignment\BlackTicket\obj\Debug\net6.0\ref\BlackTicket.dll
